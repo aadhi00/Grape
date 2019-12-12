@@ -7,5 +7,9 @@ public class Sample {
 		for(int i=0;i<f;i++) {
 			System.out.println(f);
 		}
+	for (int j = 0; j < args.length; j++) {
+		System.out.println(j);
+		System.out.println("*");
+	}
 	}
 }
