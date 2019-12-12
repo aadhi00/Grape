@@ -10,6 +10,8 @@ public class Sample {
 	for (int j = 0; j < args.length; j++) {
 		System.out.println(j);
 		System.out.println("*");
+		
+		System.out.println("hi");
 	}
 	}
 }
