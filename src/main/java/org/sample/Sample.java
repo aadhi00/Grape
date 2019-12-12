@@ -7,5 +7,8 @@ public class Sample {
 		for(int i=0;i<f;i++) {
 			System.out.println(f);
 		}
+		{
+			System.out.println("done");
+		}
 	}
 }
